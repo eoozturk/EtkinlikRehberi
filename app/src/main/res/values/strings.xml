@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Etkinlik</string>
+    <string name="title_activity_etkinlikler">Etkinlikler</string>
+    <string name="actionExit">Çıkış</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="afis_resmi">Afiş</string>
+    <string name="etkinlik_aciklamasi">Etkinlik Açıklaması</string>
+</resources>

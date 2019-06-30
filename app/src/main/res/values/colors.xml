@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="md_edittext_error">#ffdd2c00</color>
+    <color name="md_divider_white">#10ffffff</color>
+    <color name="colorGoogleRed">#ffe53935</color>
+    <color name="colorUcretli">#ff2e7d32</color>
+    <color name="colorUcretsiz">#ff616161</color>
+</resources>
